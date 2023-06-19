@@ -1,7 +1,5 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,14 +29,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2023-06-15 at 12 22 24 AM (1)](https://github.com/SHARAN-MJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119560305/f47ea23f-eb53-4036-be42-8601d297f3c8)
+![diamond](https://github.com/Mukilkumar-SEC/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559663/e0025f5d-f938-40a8-a6ce-3af03856e5ac)
 
 ### Output:
-![WhatsApp Image 2023-06-15 at 12 22 24 AM (2)](https://github.com/SHARAN-MJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119560305/625a3f4a-3b9d-4a03-8467-01b448a4d4d3)
+![DIAMOND_](https://github.com/Mukilkumar-SEC/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559663/a82ebb5c-99fa-45ef-bb9b-42a32f80d482)
 
 
 ### Name: SHARAN MJ
-### Register Number:212222240097
+### Register Number: 212222240097
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
